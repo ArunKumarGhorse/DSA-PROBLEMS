@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0198-house-robber) |
 | [1408-string-matching-in-an-array](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1408-string-matching-in-an-array) |
 ## String
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1408-string-matching-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
