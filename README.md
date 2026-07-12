@@ -20,4 +20,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
