@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
