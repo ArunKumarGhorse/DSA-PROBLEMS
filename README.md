@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [1408-string-matching-in-an-array](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1408-string-matching-in-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [1763-longest-nice-substring](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1763-longest-nice-substring) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1763-longest-nice-substring) |
+## Sorting
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
