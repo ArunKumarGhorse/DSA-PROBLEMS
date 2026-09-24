@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1408-string-matching-in-an-array) |
+| [1763-longest-nice-substring](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1763-longest-nice-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -63,8 +64,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
+| [1763-longest-nice-substring](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
+| [1763-longest-nice-substring](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1763-longest-nice-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1763-longest-nice-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
