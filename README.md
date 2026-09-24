@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1408-string-matching-in-an-array) |
 | [1763-longest-nice-substring](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1763-longest-nice-substring) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## String Matching
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [1763-longest-nice-substring](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1763-longest-nice-substring) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Divide and Conquer
 |  |
 | ------- |
