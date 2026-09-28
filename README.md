@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
+| [0518-coin-change-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0518-coin-change-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1408-string-matching-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0518-coin-change-ii) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/2932-maximum-strong-pair-xor-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
