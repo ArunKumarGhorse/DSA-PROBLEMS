@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0518-coin-change-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0518-coin-change-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 ## Database
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0518-coin-change-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
