@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1688-count-of-matches-in-tournament) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
