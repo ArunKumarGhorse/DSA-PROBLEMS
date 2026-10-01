@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1408-string-matching-in-an-array](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/1688-count-of-matches-in-tournament) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ArunKumarGhorse/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
